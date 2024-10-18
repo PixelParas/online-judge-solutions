@@ -1,7 +1,8 @@
-#include <iostream>
+//
+// Created on 18-10-2024.
+//
+
 #include <cstdio>
-#include <cmath>
-#include <stack>
 
 using namespace std;
 int main()
