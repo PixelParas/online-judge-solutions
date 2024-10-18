@@ -1,6 +1,6 @@
 # Prerequisites
 cmake-build-debug/
-.idea/git reset
+.idea/
 *.d
 
 # Compiled Object files
